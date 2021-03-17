@@ -6,5 +6,5 @@ path : "#?o="
 };
 //]]>
 </script>
-<script src='https://raw.githack.com/rizkiramdandi/Dev/master/autoconvretlink.js'></script>
+<script src='https://raw.githack.com/anaktiri/safelinku/master/safelink.js'></script>
 <script src='https://www.blogger.com/feeds/2377202753890449553/posts/default?alt=json-in-script&max-results=150&callback=showurl'></script>
